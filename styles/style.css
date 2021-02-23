@@ -376,7 +376,6 @@ p {
         padding-left: 10rem;
     }
     .podcast {
-        width: 58.4rem;
         margin-bottom: 1rem;
     }
     .podcastGrid iframe  {
@@ -476,5 +475,12 @@ p {
     }
     .point-p {
         color: #0000ff;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .podcastGrid iframe  {
+        width: 514px;
+        height: 232px;
     }
 }
