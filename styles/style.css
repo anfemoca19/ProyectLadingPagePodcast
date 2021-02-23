@@ -377,9 +377,11 @@ p {
     }
     .podcast {
         margin-bottom: 1rem;
+       
     }
     .podcastGrid iframe  {
         width: 584px;
+        border: 0;
     }
     .podcast-desktop {
         display: block;
