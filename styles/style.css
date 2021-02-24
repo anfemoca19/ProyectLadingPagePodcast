@@ -327,6 +327,10 @@ p {
     padding: 1.6rem 2rem 3.1rem;
     justify-content: space-between;
 }
+.social-media a{
+    color: #060A24; 
+
+}
 
 @media screen and (min-width: 600px) {
     p {
@@ -475,6 +479,10 @@ p {
         padding: 1.6rem 2rem 3.1rem;
         align-items: center;
         justify-content: space-between;
+        
+    }
+    .social-media a{
+        color: #060A24;
     }
     .point-p {
         color: #0000ff;
